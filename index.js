@@ -1,6 +1,6 @@
 module.exports = () => ({
   presets: [
-    'babel-preset-common',
-    '@babel/preset-react'
+    '@guys/babel-preset-common',
+    '@babel/preset-react',
   ],
 });
