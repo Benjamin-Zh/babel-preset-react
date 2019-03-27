@@ -7,11 +7,10 @@
   },
   "author": "",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "@babel/preset-react": "^7.0.0",
     "@guys/babel-preset-common": "^0.1.0"
   },
-  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Benjamin-Zh/babel-preset-react.git"
