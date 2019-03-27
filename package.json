@@ -1,0 +1,15 @@
+{
+  "name": "babel-preset-react",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-common": "git+https://github.com/Benjamin-Zh/babel-preset-common.git",
+    "@babel/preset-react": "^7.0.0"
+  }
+}
