@@ -1,7 +1,6 @@
 {
-  "name": "babel-preset-react",
+  "name": "@my-org/babel-preset-react",
   "version": "0.1.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "devDependencies": {
     "babel-preset-common": "git+https://github.com/Benjamin-Zh/babel-preset-common.git",
     "@babel/preset-react": "^7.0.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benjamin-Zh/babel-preset-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Benjamin-Zh/babel-preset-react/issues"
+  },
+  "homepage": "https://github.com/Benjamin-Zh/babel-preset-react#readme",
+  "description": ""
 }
