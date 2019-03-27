@@ -1,5 +1,5 @@
 {
-  "name": "@my-org/babel-preset-react",
+  "name": "@guys/babel-preset-react",
   "version": "0.1.0",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "babel-preset-common": "git+https://github.com/Benjamin-Zh/babel-preset-common.git",
-    "@babel/preset-react": "^7.0.0"
+    "@babel/preset-react": "^7.0.0",
+    "@guys/babel-preset-common": "^0.1.0"
   },
   "dependencies": {},
   "repository": {
